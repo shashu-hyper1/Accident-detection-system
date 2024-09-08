@@ -1,0 +1,15 @@
+arduion nano 
+sim800l with antena
+lcd with i2c s
+gps module   s
+alcohol sensor s
+servo s
+relay s
+led s(final if there is space)
+buzzer s
+vibration sensor
+guestur sensor s
+fire sensor
+
+
+
